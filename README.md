@@ -9,6 +9,8 @@ Sou um estudante de desenvolvimento de sistemas na Unicesumar, faço design grá
   <img width="50" height="50" src="https://devicon-website.vercel.app/api/ruby/plain-wordmark.svg"></img>
 
   ### Você pode me encontrar em:
+##
+  
 <a href="https://www.linkedin.com/in/felipe-galdino-2b8244281/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
