@@ -10,12 +10,11 @@ Sou um estudante de desenvolvimento de sistemas na Unicesumar, faço design grá
 
   ### Você pode me encontrar em:
   <a href="https://www.linkedin.com/in/felipe-galdino-2b8244281/">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
   </a>
   <a href="mailto:feligald@gmail.com">
-    <img width="50" height="50" src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"></img>
-  
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a>
   <a href="https://www.instagram.com/flpgald">
-    ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>
   </a>
