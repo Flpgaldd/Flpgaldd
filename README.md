@@ -8,5 +8,9 @@ Sou um estudante de desenvolvimento de sistemas na Unicesumar, faço design grá
   <img width="50" height="50" src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg"></img>
   <img width="50" height="50" src="https://devicon-website.vercel.app/api/ruby/plain-wordmark.svg"></img>
 
-  
-  
+  ### Você pode me encontrar em:
+
+  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
