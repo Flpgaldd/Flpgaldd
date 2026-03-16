@@ -5,10 +5,10 @@ Sou um estudante de desenvolvimento de sistemas na Unicesumar, faço design grá
 - 💻 Futuro **Desenvolvedor**
 - 🔥 Atualmente focado em: **[Laravel](https://laravel.com/)** e **[Ruby on rails](https://rubyonrails.org/)**:
 
-  <img width="50" height="50" src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg"></img>
-  <img width="50" height="50" src="https://devicon-website.vercel.app/api/ruby/plain-wordmark.svg"></img>
+<img width="50" height="50" src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg"></img>
+<img width="50" height="50" src="https://devicon-website.vercel.app/api/ruby/plain-wordmark.svg"></img>
 
-  ### Você pode me encontrar em:
+### Você pode me encontrar em:
 ##
   
 <a href="https://www.linkedin.com/in/felipe-galdino-2b8244281/">
