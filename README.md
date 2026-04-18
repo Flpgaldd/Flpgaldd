@@ -5,10 +5,10 @@ Sou um estudante de desenvolvimento de sistemas na Unicesumar, faço design grá
 - 💻 Futuro **Desenvolvedor**
 - 🔥 Atualmente focado em: **[Laravel](https://laravel.com/)**, **[Ruby on rails](https://rubyonrails.org/)** e **[Python](https://www.python.org/))**:
 
-<img width="40" height="40" src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg"></img>
-<img width="40" height="40" src="https://devicon-website.vercel.app/api/ruby/plain-wordmark.svg"></img>
-<img width="40" height="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
-<img width="40" height="40" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
+<img width="50" height="50" src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg"></img><nobr>
+<img width="50" height="50" src="https://devicon-website.vercel.app/api/ruby/plain-wordmark.svg"></img>
+<img width="50" height="50" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+<img width="50" height="50" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
 
 ### Você pode me encontrar em:
 ##
