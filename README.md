@@ -4,11 +4,18 @@ Sou um estudante de desenvolvimento de sistemas na Unicesumar, faço design grá
 - 👨‍🎓 **Estudante** na Unicesumar - [Curso técnico de desenvolvimento de sistemas](https://inscricoes.unicesumar.edu.br/curso/tecnico-em-desenvolvimento-de-sistemas)
 - 💻 Futuro **Desenvolvedor**
 - 🔥 Atualmente focado em: **[Laravel](https://laravel.com/)**, **[Ruby on rails](https://rubyonrails.org/)** e **[Python](https://www.python.org/))**:
-
+<a width="50" height="50">
 <img width="50" height="50" src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg"></img>
+</a>
+<a width="50" height="50">
 <img width="50" height="50" src="https://devicon-website.vercel.app/api/ruby/plain-wordmark.svg"></img>
+</a>
+<a width="50" height="50">
 <img width="50" height="50" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+</a>
+<a width="50" height="50">
 <img width="50" height="50" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
+</a>
 
 ### Você pode me encontrar em:
 ##
